@@ -14,7 +14,7 @@
 .c.o :
 	$(CC) -c -g $<
 
-EXE = ${HOME}/local/bin/t2ps
+EXE = t2ps
 OBJ = t2ps.o page.o line.o 
 HDR = t2ps.h
 
