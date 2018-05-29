@@ -1,5 +1,6 @@
 # t2ps
-:link: http://denki.nara-edu.ac.jp/~yabu/soft/original/index.html
+Fork from :link: http://denki.nara-edu.ac.jp/~yabu/soft/original/index.html
+
 Convert from text-file to postscript-file.
 1. Programs and generated PostScript files are extremely simple, easy to modify and customize.
 1. You can set the font size and line spacing to your preferred values.
