@@ -28,3 +28,6 @@ $ cd t2ps; make
 ```
 $ t2ps -h
 ```
+
+## Lisence
+GPL
